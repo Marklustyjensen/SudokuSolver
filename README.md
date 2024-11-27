@@ -10,13 +10,6 @@ A powerful Sudoku-solving application that uses efficient algorithms to solve Su
 - **Customizable**: Easily extendable for experimenting with new solving techniques.
 - **Cross-Platform**: Runs seamlessly on Windows, macOS, and Linux.
 
-## Tech Stack
-
-- **Programming Language**: [Specify, e.g., Python/Java]
-- **Key Libraries**:  
-  - [List any libraries used, e.g., NumPy, argparse]
-- **Development Tools**: Git, GitHub
-
 ## Installation
 
 1. Clone the repository:
