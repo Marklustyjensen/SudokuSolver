@@ -1,4 +1,4 @@
-# SudokuSolver
+# Sudoku Solver
 
 A powerful Sudoku-solving application that uses efficient algorithms to solve Sudoku puzzles of varying complexity. This project demonstrates the application of logical problem-solving and algorithmic design, making it a great tool for both learning and solving.
 
